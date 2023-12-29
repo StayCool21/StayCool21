@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello, fellow nerds 👋
+I code on occasion, believe it or not. My latest endeavor (if you call it that) involves playing around with Unity Engine for game development. 
+I'm also a big racing fan, hoping to utilize NR2003's stellar physics model to bring it up to modern-day standards.
 <!--
 **StayCool21/StayCool21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
