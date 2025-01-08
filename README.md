@@ -1,6 +1,6 @@
 ### Hello, fellow nerds 👋
-I code on occasion, believe it or not. My latest endeavor involves the creation of my university's CS club website for the first time in a decade, as well as toying with the XRP ledger. 
-I'm also a big racing fan, hoping to utilize NR2003's stellar physics model to bring it up to modern-day standards. 
+I code on occasion, believe it or not. My latest endeavor involves the creation of my university's CS club website for the first time in a decade! I've also been dabbling in sports journalism/photography with hopes of advancing into NASCAR.
+One day, I hope to to utilize NR2003's (the definitive NASCAR game) stellar physics model to bring it up to modern-day standards. 
 <!--
 **StayCool21/StayCool21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
